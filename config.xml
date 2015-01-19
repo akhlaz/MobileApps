@@ -2,8 +2,7 @@
 <widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>مجلة اعمال</name>
     <description>
-        اعمال مجلة الكترونية عربية تسعى إلى إلهام وإعلام رجال الأعمال. نحن نقدم حلول حقيقية للتحديات التي تواجك كصاحب عمل، بما في ذلك النصائح والأدوات والأخبار للمساعدة في بناء – ونمو – عملك.
-http://aamalmagazine.com
+       http://aamalmagazine.com
     </description>
     <author email=“aamalmagazine@gmail” href="http://aamalmagazine.com">
         Aamal Magazine مجلة اعمال
