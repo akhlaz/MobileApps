@@ -2,10 +2,10 @@
 <widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>مجلة اعمال</name>
     <description>
-        اعمال مجلة الكترونية عربية تسعى إلى إلهام وإعلام رجال الأعمال. نحن نقدم حلول حقيقية للتحديات التي تواجك كصاحب عمل، بما في ذلك النصائح والأدوات والأخبار للمساعدة في بناء – ونمو – عملك.
+        اعمال مجلة الكترونية عربية تسعى إلى إلهام وإعلام رجال الأعمال. نحن نقدم حلول حقيقية للتحديات التي تواجك كصاحب عمل، بما في ذلك النصائح والأدوات والأخبار للمساعدة في بناء – ونمو – عملك. http://aamalmagazine.com/
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="aamalmagazine@gmail.com" href="http://aamalmagazine.com/">
+        مجلة اعمال
     </author>
     <content src="index.html" />
     <preference name="permissions" value="none" />
