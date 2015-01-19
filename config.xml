@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>مجلة اعمال</name>
+    <name>Aamal Magazine</name>
     <description>
-       http://aamalmagazine.com
+        Aamal Magazine
     </description>
     <author email=“aamalmagazine@gmail” href="http://aamalmagazine.com">
-        Aamal Magazine مجلة اعمال
+        Aamal Magazine
     </author>
     <content src="index.html" />
     <preference name="permissions" value="none" />
