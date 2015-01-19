@@ -2,7 +2,7 @@
 <widget id="com.phonegap.helloworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>مجلة اعمال</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        اعمال مجلة الكترونية عربية تسعى إلى إلهام وإعلام رجال الأعمال. نحن نقدم حلول حقيقية للتحديات التي تواجك كصاحب عمل، بما في ذلك النصائح والأدوات والأخبار للمساعدة في بناء – ونمو – عملك.
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
         PhoneGap Team
